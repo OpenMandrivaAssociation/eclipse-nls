@@ -13,7 +13,7 @@ License: EPL
 URL: http://www.eclipse.org/babel/
 
 Version: 3.6.0.v20100814043401
-Release: 5
+Release: 7
 ## The source for this package is taken from
 # http://download.eclipse.org/technology/babel/babel_language_packs/R0.8.0/helios.php
 # usage: FROM=http://download.eclipse.org/technology/babel/babel_language_packs/R0.8.0/helios.php ./fetch-babel.sh
