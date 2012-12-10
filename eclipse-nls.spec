@@ -136,3 +136,11 @@ find eclipse/features -type f -exec chmod 644 {} \;
 %clean
 rm -rf $RPM_BUILD_ROOT
 
+
+
+%changelog
+* Sun Nov 27 2011 Guilherme Moro <guilherme@mandriva.com> 3.6.0.v20100814043401-7
++ Revision: 733902
+- rebuild
+- imported package eclipse-nls
+
