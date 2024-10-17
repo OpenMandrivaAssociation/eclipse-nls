@@ -10,7 +10,7 @@ Summary: Babel language packs for the Eclipse platform and various plug-ins
 # note: try to keep this group the same as eclipse's rpm:
 Group: Development/Java
 License: EPL
-URL: http://www.eclipse.org/babel/
+URL: https://www.eclipse.org/babel/
 
 Version: 3.6.0.v20100814043401
 Release: 7
